@@ -9,4 +9,5 @@ dependencies:
   - ipywidgets
   - ipyleaflet
   - openpyxl
+  - voila>=0.1.8
 prefix: C:\Users\john.miller4\Anaconda3\envs\FFX_STW
